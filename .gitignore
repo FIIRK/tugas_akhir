@@ -2,7 +2,7 @@ j-data_generator.ipynb
 j-data_generator.ipynb
 model1_weights.pth
 model2_weights.pth
-f_data
-scripts/__pycache__
+data/
+__pycache__
 .vscode
 .venv
